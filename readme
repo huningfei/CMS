@@ -11,3 +11,5 @@
 http://127.0.0.1:8000/index/
 
 三 实现评论，点赞，发布，删除，编辑，(前面四个的功能需要登录才能操作)，分页功能
+
+![image](https://github.com/huningfei/CMS/blob/master/images/%E6%8A%A5%E9%9A%9C.png)
